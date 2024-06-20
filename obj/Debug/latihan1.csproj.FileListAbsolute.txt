@@ -1,0 +1,15 @@
+D:\latihan1\latihan1\bin\Debug\latihan1.exe.config
+D:\latihan1\latihan1\bin\Debug\latihan1.exe
+D:\latihan1\latihan1\bin\Debug\latihan1.pdb
+D:\latihan1\latihan1\obj\Debug\latihan1.csprojAssemblyReference.cache
+D:\latihan1\latihan1\obj\Debug\MainWindow.g.cs
+D:\latihan1\latihan1\obj\Debug\App.g.cs
+D:\latihan1\latihan1\obj\Debug\latihan1_MarkupCompile.cache
+D:\latihan1\latihan1\obj\Debug\latihan1_MarkupCompile.lref
+D:\latihan1\latihan1\obj\Debug\MainWindow.baml
+D:\latihan1\latihan1\obj\Debug\latihan1.g.resources
+D:\latihan1\latihan1\obj\Debug\latihan1.Properties.Resources.resources
+D:\latihan1\latihan1\obj\Debug\latihan1.csproj.GenerateResource.cache
+D:\latihan1\latihan1\obj\Debug\latihan1.csproj.CoreCompileInputs.cache
+D:\latihan1\latihan1\obj\Debug\latihan1.exe
+D:\latihan1\latihan1\obj\Debug\latihan1.pdb
